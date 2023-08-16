@@ -2,7 +2,7 @@
 
 ## Bonjour <img src="assets/hello.gif" width="28px" alt="hi">
 
-I'm Hasibul Mahi, a <b>  Front-End Web Application Developer </b> from <img src="assets/bangladesh.png" width="18"/> Bangladesh. I spend most of my time coding outstanding projects.
+I'm Hasibul Mahi, a <b> Software Engineer </b> from <img src="assets/bangladesh.png" width="18"/> Bangladesh. I spend most of my time coding outstanding projects.
 
 :coffee: &emsp;Connect with me!
 
@@ -11,7 +11,7 @@ I'm Hasibul Mahi, a <b>  Front-End Web Application Developer </b> from <img src=
 :hearts: &emsp;Developing third eye thoughts. <br/>
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
 🤔 &emsp;I’m looking for people who can help me with outstanding technology.<br/>
-:e-mail: &emsp;How to reach me: hasibulmahi@gmail.com.<br/>
+:e-mail: &emsp;How to reach me: hasibulmahi@gmail.com<br/>
 ⚡ &emsp;Interest: Research Enthusiast
 
 #### Things I code with:
