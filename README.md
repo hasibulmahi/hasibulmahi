@@ -1,4 +1,4 @@
-![Github Banner](assets/GithubCover.jpg)
+![Github Banner](assets/git_header.png)
 
 ## Bonjour <img src="assets/hello.gif" width="28px" alt="hi">
 
