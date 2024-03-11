@@ -12,7 +12,7 @@ I'm Hasibul Mahi, a <b> Software Engineer </b> from <img src="assets/bangladesh.
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
 🤔 &emsp;I’m looking for people who can help me with outstanding technology.<br/>
 :e-mail: &emsp;How to reach me: hasibulmahi@gmail.com<br/>
-⚡ &emsp;Interest: Research Enthusiast
+⚡ &emsp;Interest: Tech & Research Enthusiast
 
 #### Things I code with:
 
