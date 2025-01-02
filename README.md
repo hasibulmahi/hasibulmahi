@@ -2,7 +2,7 @@
 
 ## Bonjour <img src="assets/hello.gif" width="28px" alt="hi">
 
-I'm Hasibul Mahi a <b> Software Engineer </b> from <img src="assets/bangladesh.png" width="18"/> Bangladesh. I spend most of my time coding outstanding projects.
+I'm Hasibul Mahis a <b> Software Engineer </b> from <img src="assets/bangladesh.png" width="18"/> Bangladesh. I spend most of my time coding outstanding projects.
 
 :coffee: &emsp;Connect with me!
 
